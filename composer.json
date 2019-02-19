@@ -1,13 +1,13 @@
 {
-    "name": "zlikavac32/php-enum",
+    "name": "filipe07/php-enum",
     "description": "Better PHP enum support",
     "keywords": ["enum", "php-enum", "enumeration"],
     "type": "library",
     "license": "MIT",
     "authors": [
         {
-            "name": "Marijan Šuflaj",
-            "email": "msufflaj32@gmail.com"
+            "name": "Filipe Gonçalves",
+            "email": "filipeandre07@gmail.com"
         }
     ],
     "minimum-stability": "stable",
