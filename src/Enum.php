@@ -143,7 +143,7 @@ abstract class Enum implements Serializable, JsonSerializable
      * @return string|void
      * @throws Throwable
      */
-    final public function serialize()
+    public function serialize()
     {
         throw self::createNoSerializeUnserializeException();
     }
@@ -153,7 +153,7 @@ abstract class Enum implements Serializable, JsonSerializable
      *
      * @throws Throwable
      */
-    final public function unserialize($serialized)
+    public function unserialize($serialized)
     {
         throw self::createNoSerializeUnserializeException();
     }
